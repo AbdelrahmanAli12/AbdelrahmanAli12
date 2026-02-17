@@ -1,6 +1,6 @@
 # Hi 👋, I'm Abdelrahman Ali
 
-## Full-Stack Software Engineer | Next.js • FastAPI • Cloud Systems
+## Software Engineer
 
 🚀 Building scalable platforms • ⚡ Performance-focused • 🌍 Multilingual-ready apps
 
